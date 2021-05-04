@@ -1,0 +1,101 @@
+https://yandex.ru/turbo/natworld.info/s/jekoturizm/v-chem-zakljuchajutsja-sut-i-osobennosti-jekologicheskogo-turizma
+https://yandex.ru/turbo/natworld.info/s/jekoturizm/top-10-nacionalnyh-prirodnyh-parkov-rossii-spisok-foto-karty-i-opisanie
+https://yandex.ru/turbo/natworld.info/s/jekoturizm/samye-opasnye-ozera-v-mire
+https://yandex.ru/images/search?itype=jpg&pos=7&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FDNzwSXkX4AMaYtP.jpg&text=картинка%20планеты%20земля%20на%20белом%20фоне%20hd&rpt=simage
+https://ecoportal.info/endemiki-novoj-zelandii/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="fragment1"><!--Верхний фрагмент страницы-->
+			<h1>EcoWorld</h1>
+			<h4>Океан - это множество капель</h4>
+			<hr />
+		</div>
+		
+		
+				
+		<div class="paragraph1"><!--Текст-->
+			<h2>О портале</h2>
+			<p>
+				Сегодня многие люди стали<br>заботиться о природе, 
+				понимая, что<br>человек несет так много вреда<br>нашей планете. 
+				Но что мы в<br>действительности делаем<br>полезного для окружающей среды?		
+			</p>
+			<p>
+				Позаботиться о нашей планете<br>может каждый человек, но сперва<br>следует
+				узнать больше о нынешнем<br>состоянии экологии. Наш Экопортал<br>содержит 
+				новости и полезные<br>статьи об окружающей среде,<br>прочитав которые, вы точно<br>
+				взгляните на наш мир под другим<br>углом. И вы начнете действовать,<br>делая
+				каждый день что-то доброе<br>для нашей планеты.
+			</p>
+		</div>
+
+
+
+
+<link rel="stylesheet" href="MyStyle.css" /> <!--Подключаем библиотеку стилей
+
+<div class="container-fluid">   На всю ширину страницы, окна
+-----------------------------------------------------------------------------------------
+
+
+.fragment{
+	margin-bottom: 0px;
+	 width:500px;
+	 height:110px;
+     background-color: #FFFFFF; /*Цвет фона */	 
+	 
+}
+
+h1.fragment{
+	margin-left: 50px; /* Отступ слева */
+}
+
+h4.fragment{
+	font-weight: bold;
+    font-size: 1.3rem;
+    color: green;
+}
+   
+.paragraph1 {
+    margin-left: 20%; /* Отступ слева */
+	margin-top: 100px;
+    background-color: #ppp; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+	width:400px; /* Ширина */
+	height:150px /* Высота */
+}
+
+h2.paragraph1{
+	color: green;
+}
+
+{
+	 margin-left: 20%;
+	margin-top: 10px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

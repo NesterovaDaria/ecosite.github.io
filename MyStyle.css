@@ -1,0 +1,137 @@
+div{
+	/*outline: 1px solid black !important;/*Границы колонок*/
+}
+
+/*Верхний контейнер*/
+.containertop-fluid{
+	background-color: #FFFFFF;
+	height: 100px; 
+}
+/*Цвет фона*/
+body{
+	background-color: #F3BE36;
+}
+h1, h6{
+	margin-left: 95px;
+}
+
+h2, h6{
+	color: green;
+}
+/*журнал*/
+.buttonJournal{
+	margin-top: 50px;/*отступ сверху*/
+	margin-bottom: 0px;/*от нижней границы*/
+	float: right;
+	cursor: pointer; /* Курсор в виде руки */
+}
+/*красная книга*/
+.buttonRedBook{
+	/*width: 200px;*/
+	
+	margin-top: 50px;/*отступ сверху*/
+	float: left;
+	margin-bottom: 0px;/*от нижней границы*/
+	cursor: pointer; /* Курсор в виде руки */
+}
+/*экотехнологии*/
+.buttoneco{
+	float: right;
+	margin-top: 50px;/*отступ сверху*/
+	margin-bottom: 0px;/*от нижней границы*/
+	cursor: pointer; /* Курсор в виде руки */
+}
+
+/*войти*/
+.buttonEnter{	
+	float: right;
+	cursor: pointer; /* Курсор в виде руки */
+}
+/*регистрация*/
+.buttonReg{
+	float: left;
+	cursor: pointer; /* Курсор в виде руки */
+}
+/*блок топ нацпарков*/
+/*блок экотуризм*/
+.top10, .ecotur, .pond{
+	margin-top: 10px;/*отступ сверху*/
+	background-color: white;
+	width:250px; /* Ширина */
+	height:285px; /* Высота */	
+}
+
+.ecotur1{
+	margin-top: 13px;
+}
+/*блок экотуризм*/
+
+.pond{
+	height:260px; /* Ширина */
+}
+.col-sm-7 {
+	margin-top: 50px;/*отступ сверху*/	
+}
+.ots {
+	margin-top: 100px;/*отступ сверху*/
+}
+/*Страница регестрации---------------------------------------------------------*/
+.formareg{
+	margin-top: 30px;/*отступ сверху*/
+	width:550px; /* Ширина */
+	height:380px; /* Высота */
+	margin-left: 30%;
+}
+
+.sareg{
+	margin-top: 10px;/*отступ сверху*/
+}
+
+/*Страница Красной книги-------------------------------------------------------*/
+.type{
+	color: white;
+	border: 1px solid white;
+}
+.rodents{
+	margin-top: 100px;/*отступ сверху*/
+	border: 1px solid white; /*рамка*/
+	background-color: green;
+	
+}
+
+.type:hover {
+	box-shadow: 0 0 10px green;
+	background-color: green;
+	cursor: pointer; /* Курсор в виде руки */
+}
+
+.h5.RB {
+	color: green;
+}
+.h6.RB {
+	
+}
+.RB {
+	color: green;
+	margin-top: 15px;/*отступ сверху*/
+	background-color: white;
+	width:250px; /* Ширина */
+	height:340px; /* Высота */	
+}
+.bobr{
+	height:490px; /* Высота */	
+}
+.suslik{
+	margin-top: 80px;/*отступ сверху*/
+	height:445px; /* Высота */	
+}
+.dikobras{
+	height:535px; /* Высота */	
+}
+.gr{
+	color: green;
+}
+
+a:visited {
+	color: white;/*ссылки, по которым уже переходили*/
+}
